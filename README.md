@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarker-Rajib
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning react.js + express.js + mongodb
 - 💞️ I’m looking to collaborate on ...
 - 📫 mail me redhat0593@gmail.com
 - = look after all repo behind the scene 
