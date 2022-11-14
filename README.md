@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me redhat0593@gmail.com
+- 📫 mail me redhat0593@gmail.com
 - = look after all repo behind the scene 
 
 <!---
