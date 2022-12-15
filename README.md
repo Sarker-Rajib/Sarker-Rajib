@@ -1,8 +1,8 @@
-<img src="/asssets/banner.png"/>
+<img src="/src/asssets/banner.png">
 <h1 align="center">Hi 👋, I'm Rajib Sarker</h1>
 <h3 align="center">A passionate MERN Stack developer</h3>
 
-- 💬 Ask me about **React**
+###### About me
 
 - 📫 How to reach me **rajib.sarker111@gmail.com**
 
