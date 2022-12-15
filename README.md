@@ -1,8 +1,8 @@
 <img src="/src/asssets/banner.png">
 <h1 align="center">Hi 👋, I'm Rajib Sarker</h1>
-<h3 align="center">A passionate MERN Stack developer</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
-###### About me
+## :dart: About ##
 
 - 📫 How to reach me **rajib.sarker111@gmail.com**
 
